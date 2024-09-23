@@ -89,6 +89,29 @@ const Skill = () => {
         },
       ],
     },
+    {
+      title: "MS Office",
+      keywords: [
+        {
+          id: 1,
+          name: "MS Excel",
+          description:
+            "Skilled in Microsoft Excel for data analysis, visualization, and complex calculations, utilizing advanced functions, pivot tables, and macros to streamline workflows and enhance data-driven decision-making.",
+        },
+        {
+          id: 2,
+          name: "MS Word",
+          description:
+            "Proficient in Microsoft Word for creating, formatting, and editing professional documents, with expertise in utilizing templates, styles, and advanced features to produce polished and well-organized content.",
+        },
+        {
+          id: 3,
+          name: "MS Powerpoint",
+          description:
+            "Experienced in Microsoft PowerPoint for designing and delivering impactful presentations, leveraging advanced tools and features to create visually appealing slides that effectively communicate key messages.",
+        },
+      ],
+    },
   ];
 
   

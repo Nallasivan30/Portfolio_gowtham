@@ -25,6 +25,12 @@ const Project = () => {
       name: "Heart Failure Analysis Using EDA ",
       btn: "Know More",
       path: "https://github.com/GowthamG2704/-Heart-Failure-Analysis-Using-EDA",
+    },
+    {
+      id: 5,
+      name: "Netflix TV shows and Movies EDA ",
+      btn: "Know More",
+      path: "https://github.com/GowthamG2704/Netflix-TV-shows-and-Movies-EDA",
     }
   ];
 

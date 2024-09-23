@@ -6,12 +6,12 @@ const certificates = [
   {
     imgSrc: img1,
     details:
-      "This certificate is awarded for successfully completing the course in Data Analytics using PowerBI. It is part of the Naan Mudhalvan Scheme, sponsored by the Government of Tamil Nadu and implemented by the Edunet Foundation. The certificate includes logos of the involved organizations, a QR code for verification, and official signatures.",
+      "This certificate is awarded for successfully completing the certification course in Fundamentals of Artificial Intelligence and Machine Learning. The course is part of the TechSaksham initiative, a joint CSR effort by Microsoft and SAP, implemented by the Edunet Foundation. The certificate includes logos of Microsoft, Edunet Foundation, and SAP, and is signed by representatives from each organization.",
   },
   {
     imgSrc: img2,
     details:
-      "This certificate is awarded for successfully completing the certification course in Fundamentals of Artificial Intelligence and Machine Learning. The course is part of the TechSaksham initiative, a joint CSR effort by Microsoft and SAP, implemented by the Edunet Foundation. The certificate includes logos of Microsoft, Edunet Foundation, and SAP, and is signed by representatives from each organization.",
+      "This certificate is awarded for successfully completing the course in Data Analytics using PowerBI. It is part of the Naan Mudhalvan Scheme, sponsored by the Government of Tamil Nadu and implemented by the Edunet Foundation. The certificate includes logos of the involved organizations, a QR code for verification, and official signatures.",
   },
   // Add more certificates as needed
 ];
