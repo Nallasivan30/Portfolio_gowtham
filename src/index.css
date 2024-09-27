@@ -46,7 +46,7 @@
 }
 /* skill style */
 .skills-container {
-    @apply flex flex-wrap gap-4 pb-40 justify-center;
+    @apply flex flex-wrap gap-4 pb-10 lg:pb-40 justify-center;
   }
   
   .skill-box {

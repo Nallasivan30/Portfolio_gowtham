@@ -19,6 +19,7 @@ const certificates = [
 const CertificatePage = () => {
   return (
     <div className="p-6 space-y-6 bg-indigo-300">
+      <h2 className="text-center text-4xl font-bold pt-4 mb-12">My Certificates</h2>
       {certificates.map((certificate, index) => (
         <div
           key={index}
@@ -30,7 +31,7 @@ const CertificatePage = () => {
             <img
               src={certificate.imgSrc}
               alt={`Certificate ${index + 1}`}
-              className="w-full h-auto object-cover rounded shadow-lg"
+              className="w-full  lg:h-[650px] object-fill rounded shadow-lg"
             />
           </div>
           <div className="w-full md:w-1/2 p-4 text-center md:text-left">

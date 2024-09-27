@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Header from "./Page/Header";
+import Index from "./Page/index";
 import Home from "./Page/Home";
 import About from "./Page/About";
 import Skill from "./Page/Skill";
@@ -30,7 +31,7 @@ function App() {
     <>
       <Header />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Index />} />
         <Route path="/About" element={<About />} />
         <Route path="/Skill" element={<Skill />} />
         <Route path="/Experience" element={<Experience />} />
