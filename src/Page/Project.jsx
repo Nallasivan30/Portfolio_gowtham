@@ -31,7 +31,25 @@ const Project = () => {
       name: "Netflix TV shows and Movies EDA ",
       btn: "Know More",
       path: "https://github.com/GowthamG2704/Netflix-TV-shows-and-Movies-EDA",
-    }
+    },
+    {
+      id: 6,
+      name: "House Price Prediction Data Analysis and Visualization",
+      btn: "Know More",
+      path: "https://github.com/GowthamG2704/House_Price_Prediction_Data_Analysis_and_Visualization",
+    },
+    {
+      id: 7,
+      name: "Organic Ecommerce Store Data Analysis and Visualization",
+      btn: "Know More",
+      path: "https://github.com/GowthamG2704/Organic_Ecommerce_Store_Data_Analysis_and_Visualization_using_Tableau_and_PowerBI",
+    },
+    {
+      id: 8,
+      name: "COVID-19 Data Analysis and Visualization",
+      btn: "Know More",
+      path: "https://github.com/GowthamG2704/COVID-19_Data_Analysis_and_Visualization",
+    },
   ];
 
   return (

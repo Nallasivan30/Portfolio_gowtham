@@ -15,12 +15,12 @@ const Experience = () => {
       details:
         "This project was conducted under the Naan Mudhalvan scheme by the Government of Tamil Nadu, as part of the Data Analytics Using Power BI course taught by Edunet. In this project, I performed a comprehensive analysis of online delivery apps, focusing on key performance indicators (KPIs) such as sales performance, customer acquisition, and service efficiency. Using Power BI, I created interactive dashboards that visualized trends and provided actionable insights.",
     },
-    // {
-    //   id: 3,
-    //   name: "VLSI Chip Verilog Code Intern",
-    //   details:
-    //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore maxime nobis vero facere sapiente ducimus aliquid, quibusdam fugiat optio fuga laudantium, expedita, quia dicta repellendus praesentium. Exercitationem necessitatibus totam eum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore maxime nobis vero facere sapiente ducimus aliquid, quibusdam fugiat optio fuga laudantium, expedita, quia dicta repellendus praesentium. Exercitationem necessitatibus totam eum.",
-    // },
+    {
+      id: 3,
+      name: "Intern at Vert IT Systems",
+      details:
+        "During my data analytics internship at Vetri IT Systems, I completed several projects that strengthened my analytical and technical skills. I conducted a COVID-19 data analysis project using Power BI and Tableau, where I visualized trends and patterns in case numbers and recovery rates. Additionally, I worked on a real-time analysis of an organic e-commerce store’s product and sales data, leveraging SQL, Power BI, and Tableau to uncover insights into customer behavior and sales performance. ",
+    },
     // {
     //   id: 4,
     //   name: "Software Engineer Intern",
@@ -32,7 +32,7 @@ const Experience = () => {
   return (
     <section className="py-10 bg-indigo-200 md:p-12 min-h-screen">
       <h2 className="text-center text-4xl font-bold mb-8">Experience</h2>
-      <div className="flex flex-wrap gap-6 pt-9 lg:pt-40 justify-center">
+      <div className="flex flex-wrap gap-6 pt-9  justify-center">
         {expData.map((data) => (
           <div
             key={data.id}

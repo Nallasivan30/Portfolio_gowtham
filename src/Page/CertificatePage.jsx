@@ -1,6 +1,7 @@
 import React from "react";
 import img1 from "../assets/ms.jpg";
 import img2 from "../assets/nm.jpg";
+import img3 from "../assets/vts.jpeg"
 
 const certificates = [
   {
@@ -12,6 +13,11 @@ const certificates = [
     imgSrc: img2,
     details:
       "This certificate is awarded for successfully completing the course in Data Analytics using PowerBI. It is part of the Naan Mudhalvan Scheme, sponsored by the Government of Tamil Nadu and implemented by the Edunet Foundation. The certificate includes logos of the involved organizations, a QR code for verification, and official signatures.",
+  },
+  {
+    imgSrc: img3,
+    details:
+      "Conducted in-depth COVID-19 data analysis and visualization using Power BI and Tableau, identifying key trends and patterns. Analyzed and visualized organic e-commerce store product and sales data (real-time) using SQL, Power BI, and Tableau, enabling insights into customer behavior and sales performance.Developed house pricing prediction models and created visualizations to analyze market trends, pricing factors, and regional insights.Prepared and delivered PowerPoint presentations for all projects, effectively communicating findings and recommendations to stakeholders.",
   },
   // Add more certificates as needed
 ];
