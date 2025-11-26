@@ -34,7 +34,7 @@ const About = () => {
               impactful business outcomes.
             </p>
             <Link
-              to="https://drive.google.com/file/d/1pSkRGBTDqyKpTXJ3p1eVdGWt-lODUJCK/view?usp=drivesdk"
+              to="https://drive.google.com/file/d/1oNKRSHvPhwrLC2uhhA0aKdQF77SClfY5"
               download
               className="self-start"
               target="_blank"
